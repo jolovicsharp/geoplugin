@@ -1,4 +1,4 @@
-# geoplugin
+# Geoplugin for Windows OS
 Unofficial GeoPlugin API client for Windows OS Written in C#.NET
 Working on a Net Framework version v4.5.2
 
