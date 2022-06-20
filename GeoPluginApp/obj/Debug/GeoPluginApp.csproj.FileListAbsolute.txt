@@ -1,0 +1,11 @@
+E:\C# PROJEKTI\GeoPluginApp\GeoPluginApp\bin\Debug\GeoPluginApp.exe.config
+E:\C# PROJEKTI\GeoPluginApp\GeoPluginApp\bin\Debug\GeoPluginApp.exe
+E:\C# PROJEKTI\GeoPluginApp\GeoPluginApp\bin\Debug\GeoPluginApp.pdb
+E:\C# PROJEKTI\GeoPluginApp\GeoPluginApp\bin\Debug\Newtonsoft.Json.dll
+E:\C# PROJEKTI\GeoPluginApp\GeoPluginApp\bin\Debug\Newtonsoft.Json.xml
+E:\C# PROJEKTI\GeoPluginApp\GeoPluginApp\obj\Debug\GeoPluginApp.csproj.AssemblyReference.cache
+E:\C# PROJEKTI\GeoPluginApp\GeoPluginApp\obj\Debug\GeoPluginApp.csproj.SuggestedBindingRedirects.cache
+E:\C# PROJEKTI\GeoPluginApp\GeoPluginApp\obj\Debug\GeoPluginApp.csproj.CoreCompileInputs.cache
+E:\C# PROJEKTI\GeoPluginApp\GeoPluginApp\obj\Debug\GeoPluginApp.csproj.CopyComplete
+E:\C# PROJEKTI\GeoPluginApp\GeoPluginApp\obj\Debug\GeoPluginApp.exe
+E:\C# PROJEKTI\GeoPluginApp\GeoPluginApp\obj\Debug\GeoPluginApp.pdb
